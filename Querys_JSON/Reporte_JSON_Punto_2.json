@@ -1,0 +1,98 @@
+{
+  "residencial": [
+    {
+      "linea": "Tramo 1",
+      "consumoTotal": 645,
+      "costoTotal": 152.52,
+      "perdidasTotal": 0.37
+    },
+    {
+      "linea": "Tramo 2",
+      "consumoTotal": 890,
+      "costoTotal": 152.52,
+      "perdidasTotal": 0.55
+    },
+    {
+      "linea": "Tramo 3",
+      "consumoTotal": 699,
+      "costoTotal": 152.52,
+      "perdidasTotal": 0.2
+    },
+    {
+      "linea": "Tramo 4",
+      "consumoTotal": 1022,
+      "costoTotal": 152.52,
+      "perdidasTotal": 0.43
+    },
+    {
+      "linea": "Tramo 5",
+      "consumoTotal": 977,
+      "costoTotal": 152.52,
+      "perdidasTotal": 0.57
+    }
+  ],
+  "comercial": [
+    {
+      "linea": "Tramo 1",
+      "consumoTotal": 1771,
+      "costoTotal": 301.34,
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 2",
+      "consumoTotal": 2799,
+      "costoTotal": 301.34,
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 3",
+      "consumoTotal": 2731,
+      "costoTotal": 301.34,
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 4",
+      "consumoTotal": 1850,
+      "costoTotal": 301.34,
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 5",
+      "consumoTotal": 2025,
+      "costoTotal": 301.34,
+      "perdidasTotal": 3
+    }
+  ],
+  "industrial": [
+    {
+      "linea": "Tramo 1",
+      "consumoTotal": 11656,
+      "costoTotal": 602.32,
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 2",
+      "consumoTotal": 9529,
+      "costoTotal": 602.32,
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 3",
+      "consumoTotal": 10091,
+      "costoTotal": 602.32,
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 4",
+      "consumoTotal": 7795,
+      "costoTotal": 602.32,
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 5",
+      "consumoTotal": 8244,
+      "costoTotal": 602.32,
+      "perdidasTotal": 3
+    }
+  ]
+}

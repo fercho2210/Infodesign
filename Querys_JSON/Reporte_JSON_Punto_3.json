@@ -1,0 +1,68 @@
+{
+  "residencial": [
+    {
+      "linea": "Tramo 5",
+      "perdidasTotal": 0.57
+    },
+    {
+      "linea": "Tramo 2",
+      "perdidasTotal": 0.55
+    },
+    {
+      "linea": "Tramo 4",
+      "perdidasTotal": 0.43
+    },
+    {
+      "linea": "Tramo 1",
+      "perdidasTotal": 0.37
+    },
+    {
+      "linea": "Tramo 3",
+      "perdidasTotal": 0.2
+    }
+  ],
+  "comercial": [
+    {
+      "linea": "Tramo 1",
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 2",
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 3",
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 4",
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 5",
+      "perdidasTotal": 3
+    }
+  ],
+  "industrial": [
+    {
+      "linea": "Tramo 1",
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 2",
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 3",
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 4",
+      "perdidasTotal": 3
+    },
+    {
+      "linea": "Tramo 5",
+      "perdidasTotal": 3
+    }
+  ]
+}
