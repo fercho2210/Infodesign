@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnergyDataUploader")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f85fd9c97181b76f85f21d72cb4df8680854200d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnergyDataUploader")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnergyDataUploader")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

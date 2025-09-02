@@ -1,6 +1,27 @@
 [
   {
     "ContainingType": "ClienteReporteController",
+    "Method": "GetHistoricoConsumo",
+    "RelativePath": "ClienteReporte/historico-consumo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "fechaInicial",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "fechaFinal",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ClienteReporteController",
     "Method": "GetHistoricoConsumoPorCliente",
     "RelativePath": "ClienteReporte/historico-consumo-por-cliente",
     "HttpMethod": "GET",
@@ -21,30 +42,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ReporteController",
-    "Method": "GetHistoricoConsumo",
-    "RelativePath": "Reporte/historico-consumo",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "fechaInicial",
-        "Type": "System.String",
-        "IsRequired": false
-      },
-      {
-        "Name": "fechaFinal",
-        "Type": "System.String",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "TopPerdidasController",
+    "ContainingType": "ClienteReporteController",
     "Method": "GetTop20Perdidas",
-    "RelativePath": "TopPerdidas/top-peores-tramos",
+    "RelativePath": "ClienteReporte/top-peores-tramos",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

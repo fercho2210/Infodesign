@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\controllers\\clientereportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:controllers\\clientereportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:repositories\\reportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\controllers\\clientereportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:controllers\\clientereportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\controllers\\topperdidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:controllers\\topperdidascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\controllers\\historicoconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:controllers\\historicoconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\models\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:models\\dbcontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|c:\\users\\ferye\\onedrive\\desktop\\infodesign\\energydatauploader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42773BD2-B4A9-47C3-B607-81A20D938AA9}|EnergyDataUploader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,82 +50,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-28T16:39:17.981Z",
+              "DocumentIndex": 2,
+              "Title": "UploadController.cs",
+              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Controllers\\UploadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
+              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Controllers\\UploadController.cs",
+              "RelativeToolTip": "Controllers\\UploadController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T21:00:19.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TopPerdidasController.cs",
-              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Controllers\\TopPerdidasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TopPerdidasController.cs",
-              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Controllers\\TopPerdidasController.cs",
-              "RelativeToolTip": "Controllers\\TopPerdidasController.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvxsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T05:28:47.05Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ClienteReporteController.cs",
               "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Controllers\\ClienteReporteController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClienteReporteController.cs",
               "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Controllers\\ClienteReporteController.cs",
               "RelativeToolTip": "Controllers\\ClienteReporteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T05:16:16.673Z"
+              "WhenOpened": "2025-08-28T05:16:16.673Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ReportRepository.cs",
               "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Repositories\\ReportRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ReportRepository.cs",
               "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Repositories\\ReportRepository.cs",
               "RelativeToolTip": "Repositories\\ReportRepository.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAcwHoAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwFAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T05:13:30.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HistoricoConsumo.cs",
-              "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Controllers\\HistoricoConsumo.cs",
-              "RelativeDocumentMoniker": "Controllers\\HistoricoConsumo.cs",
-              "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Controllers\\HistoricoConsumo.cs",
-              "RelativeToolTip": "Controllers\\HistoricoConsumo.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:26:40.143Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T04:25:15.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T04:25:15.703Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "DbContext .cs",
               "DocumentMoniker": "C:\\Users\\ferye\\OneDrive\\Desktop\\Infodesign\\EnergyDataUploader\\Models\\DbContext .cs",
               "RelativeDocumentMoniker": "Models\\DbContext .cs",
@@ -141,7 +109,8 @@
               "RelativeToolTip": "Models\\DbContext .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T21:16:24.427Z"
+              "WhenOpened": "2025-08-27T21:16:24.427Z",
+              "EditorCaption": ""
             }
           ]
         }

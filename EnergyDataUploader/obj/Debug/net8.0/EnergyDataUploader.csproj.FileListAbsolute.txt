@@ -344,3 +344,4 @@ C:\Users\ferye\OneDrive\Desktop\Infodesign\EnergyDataUploader\obj\Debug\net8.0\r
 C:\Users\ferye\OneDrive\Desktop\Infodesign\EnergyDataUploader\obj\Debug\net8.0\EnergyDataUploader.pdb
 C:\Users\ferye\OneDrive\Desktop\Infodesign\EnergyDataUploader\obj\Debug\net8.0\EnergyDataUploader.genruntimeconfig.cache
 C:\Users\ferye\OneDrive\Desktop\Infodesign\EnergyDataUploader\obj\Debug\net8.0\ref\EnergyDataUploader.dll
+C:\Users\ferye\OneDrive\Desktop\Infodesign\EnergyDataUploader\obj\Debug\net8.0\EnergyDataUploader.sourcelink.json
